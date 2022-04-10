@@ -1,2 +1,3 @@
-# therum.me
-Personal Website
+# Personal Portfolio
+
+Repository that runs [therum.me](https://therum.me), my personal site.
