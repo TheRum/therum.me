@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /assets/
+Disallow: /images/
+
+# Allow specific bots
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+# Sitemap location
+Sitemap: https://therum.me/sitemap.xml
